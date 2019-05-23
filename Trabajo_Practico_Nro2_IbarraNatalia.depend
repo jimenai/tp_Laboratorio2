@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1558198906 source:c:\users\jibarra\desktop\trabajo_practico_nro2_ibarranatalia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"defines.h"
+	"funcionesAuxiliares.h"
+	"menu.h"
+
+1558200200 c:\users\jibarra\desktop\trabajo_practico_nro2_ibarranatalia\arrayemployees.h
+
+1557950077 c:\users\jibarra\desktop\trabajo_practico_nro2_ibarranatalia\defines.h
+
+1557695945 source:c:\users\jibarra\desktop\trabajo_practico_nro2_ibarranatalia\funcionesauxiliares.c
+
+1558202194 c:\users\jibarra\desktop\trabajo_practico_nro2_ibarranatalia\funcionesauxiliares.h
+
+1558477722 source:c:\users\jibarra\desktop\trabajo_practico_nro2_ibarranatalia\validaciones.c
+	"ArrayEmployees.h"
+	"defines.h"
+	<stdio.h>
+	<stdlib.h>
+
+1558642411 source:c:\users\jibarra\desktop\trabajo_practico_nro2_ibarranatalia\arrayemployees.c
+	"ArrayEmployees.h"
+	"funcionesAuxiliares.h"
+	"defines.h"
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1558202176 c:\users\jibarra\desktop\trabajo_practico_nro2_ibarranatalia\menu.h
+
+1557947511 source:c:\users\jibarra\desktop\trabajo_practico_nro2_ibarranatalia\menu.c
+	<stdio.h>
+	"defines.h"
+
